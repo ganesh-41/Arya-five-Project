@@ -1,0 +1,371 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&display=swap');
+
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato",sans-serif;
+
+}
+.navbar-light .navbar-toggler {
+  width: fit-content;
+}
+
+
+.img-logo{
+ justify-content: center;
+ margin: 10px 25px;
+ height: 3rem;
+}
+.navbar-nav{
+    margin-left: 100px;
+}
+.nav-item{
+    margin: 0 10px;
+}
+.btn{
+    margin-left: -15rem;
+   margin-right: 3rem;
+    color: #fff;
+    background-color: #ffc107;
+    font-size: 18px;
+    height: 40px;
+    width: 20%;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:#fff;
+    border: 2px solid yellow;
+    color: black;
+}
+.btn a{
+    text-decoration: none;
+    transition:.5s;
+}
+
+/* this is section one  */
+.Health-care{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+    width: 100%;
+    
+    
+}
+.Health{
+    margin-top: 15rem; 
+ font-size: 4rem;
+ margin-left: 5%;
+height: 100%;
+ margin-bottom: -9rem;
+
+}
+.boxed-btn3{
+    border: 1px solid transparent;
+    font-size: 15px;
+    cursor: pointer;
+    transition:.5s;
+    text-decoration: none;
+    padding: 18px 44px;
+    background: linear-gradient(to right,#FF5722 0%,#FF9800 100%);
+    font-weight: 500;
+    display: inline-block;
+    margin-left: 5%;
+}
+.boxed-btn3{
+    cursor: pointer;
+    transition:.5s;
+}
+.boxed-btn3:hover{
+    background-color: #fff;
+
+} 
+
+
+/* <!-- section two --> */
+.side-bar-image{
+padding-top: 40px;
+padding-right: 30px;
+padding-left: 20px;
+padding-bottom: 100px;
+}
+.Homeopathy{
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+.Welcome{
+    font-size: 3rem;
+    font-family: "Lato",sans-serif;
+}
+.Indias{
+ font-size: 1.5rem;
+ font-family: "Lato",sans-serif;
+}
+.ul li{
+    list-style: none;
+    font-family: "Lato",sans-serif;
+}
+
+
+
+/* <!-- section third --> */
+
+.pick{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+   padding-right: 5px;
+
+}
+.white{
+
+  
+}
+
+.green{
+    background-color:rgb(242, 242, 249);
+}
+
+
+/* <!-- section fourth --> */
+
+
+.Excellent{
+  background-color: #ffc107;
+  height: 100px;
+  
+}
+.Services{
+ 
+ font-size: 2rem;
+ margin-top: 25px;
+ /* border: 2px solid red; */
+ display: inline;
+ text-align: center; 
+ 
+
+}
+.Services a{
+    
+    text-decoration: none;
+
+   }
+   .Services:hover{
+  background-color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+height: 50px;
+    width: 30%;
+    text-align: center;
+   }
+   .Appointment{
+    color: #fff;
+   }
+   .img-icon{
+    border-radius: 50%;
+    width: 10%;
+    margin-top: 50px;
+   }
+
+   .chinki-img{
+    height: 300px;
+    width: 80%;
+    margin-top: 20px;
+   }
+   #myButton{
+    border: none;
+    background-color: none;
+   }
+   .pera{
+    margin: 0 40px;
+   }
+   .tabs{
+    margin: 20px 30px;
+   }
+   .form{
+    margin: 0 200px;
+   }
+   .Diseases{
+    font-size: 1.5rem;
+    text-align: center;
+    
+   }
+   .consultation{
+    text-align: center;
+   }
+   .checkbox-group label {
+    display: inline-block;
+    margin-right: 10px; /* Adjust spacing between checkboxes */
+  }
+
+  .Disorders{
+    margin-left: -15rem;
+   margin-right: 3rem;
+    color: #fff;
+    background: linear-gradient(to right,#FF5722 0%,#FF9800 100%);
+    font-size: 18px;
+    height: 40px;
+    width: 20%;
+    cursor: pointer;
+}
+.Disorders:hover{
+    background-color:#fff;
+    border: 2px solid yellow;
+    color: black;
+}
+.Disorders a{
+    text-decoration: none;
+    transition:.5s;
+}
+.Other{
+    color: #fff;
+    text-align: center;
+    margin-top: 1rem;
+}
+/* form design */
+
+
+.col-10{
+    background-color:rgb(243, 243, 118);
+    width: auto;
+}
+.for{
+    padding-top:20px;
+    padding-bottom:;
+    padding-right:40px;
+    padding-left: 40px;
+}
+
+h1{
+    color:black; font-size:33px;
+}
+
+.call-now{
+    width:200px;
+}
+
+
+button{
+    
+    font-size:15px;
+    
+    padding: auto;
+    white-space: 20px;
+    color:black;
+    width:200px;
+    height:65px;
+    background-color: #ff6607;
+    border-color: rgb(217, 135, 3) ;
+  }
+ 
+  #ro{
+    padding-top:30px ;
+     padding-bottom:80px;
+      padding-left:40px;
+       padding-right: 40px;
+  }
+  span{
+font-family:blod;
+font-weight: bold;
+  }
+  #i1{
+    
+  }
+  .p1{
+    font-size:20px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #in1{
+    margin-left:3rem;
+  }
+  #in2{
+    margin-left:3rem;
+  }
+  #in3{
+    margin-left:3rem;
+  }
+  #in4{
+    margin-left:3rem;
+  }
+  #in5{
+    margin-left:3rem;
+  }
+  .r1{
+    padding-top:20px ; padding-bottom:10px;
+    margin-left:183px;
+  }
+
+/* footer */
+
+.bg-f{
+  background-color: black;
+color: #fff;
+height: 350px;
+}
+.WeClinic™{
+  margin: 0 50px;
+}
+
+.socail-img{
+  border-radius: 50%;
+background-color: white;
+}
+.logo-hos{
+  margin-left: 50px;
+  background-color: #fff;
+}
+.socail-link{
+  margin-left: 50px;
+}
+
+.footr{
+  list-style: none;
+  margin-left: 25px;
+}
+.footr-ul{
+  text-decoration: none;
+  color: #fff;
+}
+.footr-li{
+  text-decoration: none;
+  color: #fff;
+}
+.footr-li:hover{
+  color: #FF9800;
+
+}
+
+.location{
+  margin-left: 50px;
+}
+.doctor-award{
+  font-size: 1.2rem;
+  background: #FF9800;
+  text-align: center;
+  width: 85%;
+  margin-top: -10px;
+  margin-left: 9px;
+  
+}
+
+
+.index{
+  text-align: center;
+  z-index: -1;
+  background: linear-gradient(to right, #FF5722 0%, #FF9800 100%);
+
+}
+.chiku{
+  overflow: hidden;
+}
+.chiku a :active{
+background-color: black;
+  
+}
+.tavcontent{
+  display: none;
+}
